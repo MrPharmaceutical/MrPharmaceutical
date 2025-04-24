@@ -5,3 +5,7 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=MrPharmaceutical&label=visitors&color=blue&style=flat)
+
+![image](https://github.com/user-attachments/assets/5ff96314-479d-47b8-bba2-b1802018310d)
+
+Stupid ass smirk bro 🙄^
