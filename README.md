@@ -1,5 +1,5 @@
 <div align="center">
-put boarder here
+boarder placeholder
   
 </div>
 </p>
@@ -30,9 +30,13 @@ put boarder here
 <br>
 <br>
   I don't know how to code .
+<br>
+<br>
+
+![](https://komarev.com/ghpvc/?username=MrPharmaceutical&label=Patients&color=a00201&style=flat)
 
 <br clear="left">
 <div align="center">
-put boarder here
+boarder placeholder
   
-![](https://komarev.com/ghpvc/?username=MrPharmaceutical&label=Patients&color=a00201&style=flat)
+
