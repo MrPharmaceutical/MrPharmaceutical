@@ -1,13 +1,38 @@
 <div align="center">
+put boarder here
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r5yb18yhx1jx97xrna8u3hyb4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+</div>
+</p>
+
 
 <div align="center">
+  
+<img align="left" width="600" src="https://github.com/user-attachments/assets/a68e38cc-2345-49ce-ba48-c6ee51985bd8" alt="image" />
+<br>
+<br>
+<br>
 
-![](https://komarev.com/ghpvc/?username=MrPharmaceutical&label=visitors&color=blue&style=flat)
+ Text goes here .
 
-![image](https://github.com/user-attachments/assets/5ff96314-479d-47b8-bba2-b1802018310d)
+ and more here
 
-Stupid ass smirk bro 🙄^
+ and maybe some here . . .
+<br>
+<br>
+<br>
+<br>
+  massive wip
+  
+  come back in 5 years for maybe  
+  an update if you're lucky .
+  
+<br>
+<br>
+<br>
+  I don't know how to code .
 
-![image](https://64.media.tumblr.com/033a3e87a476c518af17267292f3d5e3/be0f1fe5cad707e8-51/s540x810/2237cab3200dd4b342482cde4c5046cdcf229592.jpg)
+<br clear="left">
+<div align="center">
+put boarder here
+  
+![](https://komarev.com/ghpvc/?username=MrPharmaceutical&label=Patients&color=a00201&style=flat)
