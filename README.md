@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<img width="350" height="15" alt="tumblr_3e4561c2320b610a3101a84367ab2c6a_8b19790f_640" src="https://github.com/user-attachments/assets/725f3c6c-4969-4258-ad40-a0950ccc35fb" />
+<img width="300" height="15" alt="tumblr_3e4561c2320b610a3101a84367ab2c6a_8b19790f_640" src="https://github.com/user-attachments/assets/725f3c6c-4969-4258-ad40-a0950ccc35fb" />
 
 <br>
 
