@@ -32,12 +32,12 @@
 <br>
 <br>
 
-<img width="200" height="15" alt="tumblr_3e4561c2320b610a3101a84367ab2c6a_8b19790f_640" src="https://github.com/user-attachments/assets/725f3c6c-4969-4258-ad40-a0950ccc35fb" />
+<img src="https://github.com/user-attachments/assets/725f3c6c-4969-4258-ad40-a0950ccc35fb" width=30% />
 
 <br>
 
-<img width="20" height="20" alt="IMG_7312_3_1-1-ezgif com-reverse" src="https://github.com/user-attachments/assets/13e6dc8c-037e-4013-badf-69885712e911" />
-  I don't know code.   <img width="20" height="20" alt="5F5CD812-A638-40DD-9910-2478DA12D2B1_3_1" src="https://github.com/user-attachments/assets/56c59b9e-7609-475a-9a09-e43bb0381bc4" />
+<img src="https://github.com/user-attachments/assets/13e6dc8c-037e-4013-badf-69885712e911" />
+  I don't know code.   <img src="https://github.com/user-attachments/assets/56c59b9e-7609-475a-9a09-e43bb0381bc4" />
 
 <br>
 <br>
